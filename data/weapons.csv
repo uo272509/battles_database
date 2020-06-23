@@ -1,0 +1,47 @@
+id_weapon;type;description
+1;Personal weapons (or small arms);designed to be used by a single person.
+2;Light weapons;'man-portable' weapons that may require a small team to operate.
+3;Heavy weapons;artillery and similar weapons, larger than light weapons (see SALW).
+4;Hunting weapon;used by hunters for sport or getting food.
+5;Crew served weapons;larger than personal weapons, requiring two or more people to operate correctly.
+6;Fortification weapons;mounted in a permanent installation, or used primarily within a fortification.
+7;Mountain weapons;for use by mountain forces or those operating in difficult terrain.
+8;Vehicle weapons;to be mounted on any type of combat vehicle.
+9;Railway weapons;designed to be mounted on railway cars, including armored trains.
+10;Aircraft weapons;carried on and used by some type of aircraft, helicopter, or other aerial vehicle.
+11;Naval weapons;mounted on ships and submarines.
+12;Space weapons;are designed to be used in or launched from space.
+13;Autonomous weapons;are capable of accomplishing a mission with limited or no human intervention.
+14;Antimatter weapons; (theoretical) would combine matter and antimatter to cause a powerful explosion.
+15;Archery weapons; operate by using a tensioned string and bent solid to launch a projectile.
+16;Artillery;are firearms capable of launching heavy projectiles over long distances.
+17;Biological weapons;spread biological agents, causing disease or infection.
+18;Chemical weapons;poisoning and causing reactions.
+19;Energy weapons;rely on concentrating forms of energy to attack, such as lasers or sonic attack.
+20;Explosive weapons;use a physical explosion to create blast concussion or spread shrapnel.
+21;Firearms;use a chemical charge to launch projectiles.
+22;Improvised weapons;are common objects, reused as weapons, such as crowbars and kitchen knives.
+23;Incendiary weapons;cause damage by fire.
+24;Non-lethal weapons;are designed to subdue without killing.
+25;Magnetic weapons;use magnetic fields to propel projectiles, or to focus particle beams.
+26;Melee weapons;operate as physical extensions of the user's body and directly impact a close target.
+27;Blade weapons;designed to pierce through flesh and cause bleeding.
+28;Blunt instruments;designed to break bones, concuss or produce crush injuries.
+29;Missiles;are rockets which are guided to their target after launch. (Also a general term for projectile weapons).
+30;Loitering munitions;designed to loiter over a battlefield, striking once a target is located.
+31;Nuclear weapons;use radioactive materials to create nuclear fission and/or nuclear fusion detonations.
+32;Primitive weapons;make little or no use of technological or industrial elements.
+33;Ranged weapons;(unlike mêlée weapons), target a distant object or person.
+34;Rocket;use chemical propellant to accelerate a projectile.
+35;Suicide weapons;exploit the willingness of their operator not surviving the attack.
+36;Anti-aircraft weapons;target missiles and aerial vehicles in flight.
+37;Anti-fortification weapons;are designed to target enemy installations.
+38;Anti-personnel weapons;are designed to attack people, either individually or in numbers.
+39;Anti-radiation weapons;target sources of electronic radiation, particularly radar emitters.
+40;Anti-satellite weapons;target orbiting satellites.
+41;Anti-ship weapons;target ships and vessels on water.
+42;Anti-submarine weapons;target submarines and other underwater targets.
+43;Anti-tank weapons;are designed to defeat armored targets.
+44;Area denial weapons;target territory, making it unsafe or unsuitable for enemy use or travel.
+45;Hunting weapons;are weapons
+46;Infantry support weapons;are designed to attack various threats to infantry units.
