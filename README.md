@@ -1,4 +1,4 @@
-# battles
+# Battles
 Our take on a database on over 600 battles that were fought between 1600 AD and 1973 AD.<br/>
 The data is taken from [this post on Kaggle](https://www.kaggle.com/residentmario/database-of-battles). It's programmed in PostgreSQL.
 
