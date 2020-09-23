@@ -1,4 +1,5 @@
-"value";"description"
-"0";"draw"
-"1";"attacker win"
-"-1";"attacker loss"
+sep=;
+value;description
+0;draw
+1;attacker win
+-1;attacker loss

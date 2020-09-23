@@ -1,3 +1,4 @@
-"value";"description"
-"D";"Dry"
-"W";"Wet"
+sep=;
+value;description
+D;Dry
+W;Wet

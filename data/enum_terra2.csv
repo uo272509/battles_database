@@ -1,6 +1,7 @@
-"value";"description"
-"0";"Other or not available"
-"B";"Bare"
-"M";"Mixed"
-"D";"Desert"
-"W";"Heavily Wooded"
+sep=;
+value;description
+0;Other or not available
+B;Bare
+M;Mixed
+D;Desert
+W;Heavily Wooded

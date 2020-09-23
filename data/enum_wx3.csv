@@ -1,4 +1,5 @@
-"value";"description"
-"H";"Hot"
-"C";"Cold"
-"T";"Temperate"
+sep=;
+value;description
+H;Hot
+C;Cold
+T;Temperate

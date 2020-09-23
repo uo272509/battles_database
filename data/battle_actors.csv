@@ -1,197 +1,10 @@
-isqno;attacker;n;actors
+sep=;
+isqno;attacker;n;actor
 1;0;1;Dutch Republic
 1;1;1;Spain
-2;0;1;Bohemia
-2;1;1;Holy Roman Empire
-3;0;1;Protestant Union
-4;0;1;Holy Roman Empire
-4;1;1;Protestant Union
-5;0;1;Denmark
-5;1;1;Holy Roman Empire
-6;0;1;Sweden
-6;1;1;Holy Roman Empire
-7;0;1;Holy Roman Empire
-7;1;1;Sweden
-8;0;1;Holy Roman Empire
-8;1;1;Sweden
-9;0;1;Holy Roman Empire
-9;1;1;Sweden
+10;0;1;Spain
+10;0;2;Holy Roman Empire
 10;1;1;Sweden
-11;1;1;Sweden
-12;0;1;Holy Roman Empire
-12;1;1;Sweden
-13;0;1;Spain
-13;1;1;France
-14;0;1;France
-14;1;1;Holy Roman Empire
-15;0;1;Holy Roman Empire
-15;1;1;France
-16;0;1;Sweden
-16;1;1;Holy Roman Empire
-17;0;1;France
-17;1;1;Holy Roman Empire
-18;0;1;Holy Roman Empire
-18;1;1;France
-19;0;1;Holy Roman Empire
-19;1;1;France
-20;0;1;Parliamentarian
-20;1;1;Royalist
-21;0;1;Royalist
-21;1;1;Royalist
-22;0;1;Royalist
-22;1;1;Parliamentarian
-23;0;1;Parliamentarian
-23;1;1;Royalist
-24;0;1;Royalist
-24;1;1;Parliamentarian
-25;0;1;Parliamentarian
-25;1;1;Royalist
-26;0;1;Scottish Royalist
-26;1;1;English Parliament
-27;0;1;Scottish Royalist
-27;1;1;English Parliament
-28;0;1;Scottish Royalist
-28;1;1;English Parliament
-29;0;1;Conde Rebels
-29;1;1;France
-30;0;1;Spain
-30;1;1;France
-31;0;1;Holy Roman Empire
-31;1;1;Ottoman Empire
-32;0;1;Ottoman Empire
-32;1;1;Holy Roman Empire
-33;0;1;Ottoman Empire
-33;1;1;Poland
-34;0;1;Holy Roman Empire
-34;1;1;France
-35;0;1;Dutch Republic
-35;1;1;France
-36;0;1;Holy Roman Empire
-36;1;1;France
-37;0;1;Holy Roman Empire
-37;1;1;France
-38;0;1;Sweden
-38;1;1;Prussia
-39;0;1;England
-39;1;1;English Rebels
-40;0;1;England
-40;1;1;Jacobites
-41;0;1;Dutch Republic
-41;1;1;France
-42;0;1;Dutch Republic
-42;1;1;France
-43;0;1;Jacobites
-43;1;1;England
-44;0;1;Jacobites
-44;1;1;England
-45;0;1;France
-45;1;1;England
-46;0;1;England
-46;1;1;France
-47;0;1;Savoy
-47;1;1;France
-48;0;1;Ottoman Empire
-48;1;1;Holy Roman Empire
-49;0;1;Russia
-49;1;1;Sweden
-51;0;1;France & Bavaria
-51;1;1;England
-52;0;1;France
-52;1;1;England & Holy Roman Empire
-53;0;1;France
-53;1;1;England & Holy Roman Empire
-54;0;1;Ottoman Empire
-54;1;1;Habsburg Empire
-55;0;1;Prussia
-55;1;1;Habsburg Empire
-56;0;1;Prussia
-56;1;1;Habsburg Empire
-57;0;1;France
-57;1;1;Great Britain
-58;0;1;France
-58;1;1;Great Britain
-59;0;1;Habsburg Empire
-59;1;1;Prussia
-60;0;1;Habsburg Empire
-60;1;1;Prussia
-61;0;1;Saxony
-61;1;1;Prussia
-62;0;1;Great Britain
-62;1;1;Jacobites
-63;0;1;Great Britain
-63;1;1;Jacobites
-64;0;1;Austria
-64;1;1;Prussia
-65;0;1;Austria
-65;1;1;Prussia
-66;0;1;Great Britain
-66;1;1;Bengal
-67;0;1;Austria
-67;1;1;Prussia
-68;0;1;Great Britain
-68;1;1;France
-69;0;1;Prussia
-69;1;1;France & Austria
-70;0;1;Austria
-70;1;1;Prussia
-71;0;1;France
-71;1;1;Hanover
-72;0;1;Russia
-72;1;1;Prussia
-73;0;1;Prussia
-73;1;1;Austria
-74;0;1;France
-74;1;1;Hanover
-75;0;1;France
-75;1;1;Hanover
-76;0;1;Russia
-76;1;1;Prussia
-77;0;1;Great Britain
-77;1;1;France
-78;0;1;Prussia
-78;1;1;Austria
-79;0;1;France
-79;1;1;Hanover
-80;0;1;Prussia
-80;1;1;Austria
-81;0;1;Austria
-81;1;1;Prussia
-82;0;1;USA
-82;1;1;Great Britain
-83;0;1;Great Britain
-83;1;1;USA
-84;0;1;USA
-84;1;1;Great Britain
-85;0;1;Great Britain
-85;1;1;USA
-86;0;1;Great Britain
-86;1;1;USA
-87;0;1;USA
-87;1;1;Great Britain
-88;0;1;Great Britain
-88;1;1;USA
-89;0;1;USA
-89;1;1;Great Britain
-90;0;1;USA
-90;1;1;Great Britain
-91;0;1;USA
-91;1;1;Great Britain
-92;0;1;USA
-92;1;1;Great Britain
-93;0;1;USA
-93;1;1;Great Britain
-94;0;1;USA
-94;1;1;Great Britain
-95;0;1;Great Britain
-95;1;1;USA
-96;0;1;France
-96;1;1;Prussia
-97;0;1;Austria
-97;1;1;France
-98;0;1;Austria
-98;1;1;France
-99;0;1;Great Britain
-99;1;1;France
 100;0;1;Austria
 100;1;1;France
 101;0;1;France
@@ -212,6 +25,9 @@ isqno;attacker;n;actors
 108;1;1;France
 109;0;1;Austria
 109;1;1;France
+11;0;1;Holy Roman Empire
+11;0;2;Saxony
+11;1;1;Sweden
 110;0;1;France
 110;1;1;Ottoman Empire
 111;0;1;France
@@ -232,6 +48,8 @@ isqno;attacker;n;actors
 118;1;1;France
 119;0;1;France
 119;1;1;Prussia
+12;0;1;Holy Roman Empire
+12;1;1;Sweden
 120;0;1;Russia
 120;1;1;France
 121;0;1;Russia
@@ -248,10 +66,13 @@ isqno;attacker;n;actors
 126;1;1;France
 127;0;1;Austria
 127;1;1;France
-128;0;1;Great Britain & Spain
+128;0;1;Great Britain
+128;0;2;Spain
 128;1;1;France
 129;0;1;Great Britain
 129;1;1;France
+13;0;1;Spain
+13;1;1;France
 130;0;1;Great Britain
 130;1;1;France
 131;0;1;Great Britain
@@ -263,8 +84,10 @@ isqno;attacker;n;actors
 134;0;1;Russia
 134;1;1;France
 135;0;1;France
-135;1;1;Russia & Prussia
-136;0;1;Prussia & Russia
+135;1;1;Russia
+135;1;2;Prussia
+136;0;1;Prussia
+136;0;2;Russia
 136;1;1;France
 137;0;1;France
 137;1;1;Austria
@@ -272,6 +95,8 @@ isqno;attacker;n;actors
 138;1;1;Austria
 139;0;1;Bavaria
 139;1;1;France
+14;0;1;France
+14;1;1;Holy Roman Empire
 140;0;1;France
 140;1;1;Prussia
 141;0;1;Prussia
@@ -282,7 +107,8 @@ isqno;attacker;n;actors
 143;1;1;France
 144;0;1;Great Britain
 144;1;1;France
-145;0;1;Great Britain & Prussia
+145;0;1;Great Britain
+145;0;2;Prussia
 145;1;1;France
 146;0;1;Great Britain
 146;1;1;USA
@@ -292,6 +118,8 @@ isqno;attacker;n;actors
 148;1;1;USA
 149;0;1;USA
 149;1;1;Great Britain
+15;0;1;Holy Roman Empire
+15;1;1;France
 150;0;1;Spain
 150;1;1;Independentalists
 151;0;1;Spain
@@ -312,6 +140,8 @@ isqno;attacker;n;actors
 158;1;1;USA
 159;0;1;USA
 159;1;1;Mexico
+16;0;1;Sweden
+16;1;1;Holy Roman Empire
 160;0;1;Mexico
 160;1;1;USA
 161;0;1;Mexico
@@ -323,8 +153,10 @@ isqno;attacker;n;actors
 164;0;1;Mexico
 164;1;1;USA
 165;0;1;Russia
-165;1;1;Great Britain & France
-166;0;1;Great Britain & France
+165;1;1;Great Britain
+165;1;2;France
+166;0;1;Great Britain
+166;0;2;France
 166;1;1;Russia
 167;0;1;Austria
 167;1;1;France
@@ -332,6 +164,8 @@ isqno;attacker;n;actors
 168;1;1;France
 169;0;1;Austria
 169;1;1;Prussia
+17;0;1;France
+17;1;1;Holy Roman Empire
 170;0;1;Austria
 170;1;1;Italy
 171;0;1;Confederacy
@@ -352,6 +186,8 @@ isqno;attacker;n;actors
 178;1;1;Confederacy
 179;0;1;USA
 179;1;1;Confederacy
+18;0;1;Holy Roman Empire
+18;1;1;France
 180;0;1;USA
 180;1;1;Confederacy
 181;0;1;Confederacy
@@ -372,6 +208,8 @@ isqno;attacker;n;actors
 188;1;1;USA
 189;0;1;Confederacy
 189;1;1;USA
+19;0;1;Holy Roman Empire
+19;1;1;France
 190;0;1;Confederacy
 190;1;1;USA
 191;0;1;Confederacy
@@ -392,6 +230,10 @@ isqno;attacker;n;actors
 198;1;1;USA
 199;0;1;USA
 199;1;1;Confederacy
+2;0;1;Bohemia
+2;1;1;Holy Roman Empire
+20;0;1;Parliamentarian
+20;1;1;Royalist
 200;0;1;USA
 200;1;1;Confederacy
 201;0;1;Confederacy
@@ -412,6 +254,8 @@ isqno;attacker;n;actors
 208;1;1;Confederacy
 209;0;1;Confederacy
 209;1;1;USA
+21;0;1;Royalist
+21;1;1;Royalist
 210;0;1;Confederacy
 210;1;1;USA
 211;0;1;Confederacy
@@ -432,6 +276,8 @@ isqno;attacker;n;actors
 218;1;1;USA
 219;0;1;Confederacy
 219;1;1;USA
+22;0;1;Royalist
+22;1;1;Parliamentarian
 220;0;1;France
 220;1;1;Germany
 221;0;1;France
@@ -452,6 +298,8 @@ isqno;attacker;n;actors
 228;1;1;Germany
 229;0;1;Germany
 229;1;1;France
+23;0;1;Parliamentarian
+23;1;1;Royalist
 230;0;1;Great Britain
 230;1;1;Zulu
 231;0;1;Great Britain
@@ -472,6 +320,8 @@ isqno;attacker;n;actors
 238;1;1;Great Britain
 239;0;1;South African Republic
 239;1;1;Great Britain
+24;0;1;Royalist
+24;1;1;Parliamentarian
 240;0;1;South African Republic
 240;1;1;Great Britain
 241;0;1;Spain
@@ -492,6 +342,8 @@ isqno;attacker;n;actors
 248;1;1;Serbia
 249;0;1;Ottoman Empire
 249;1;1;Bulgaria
+25;0;1;Parliamentarian
+25;1;1;Royalist
 250;0;1;Ottoman Empire
 250;1;1;Serbia
 251;0;1;Ottoman Empire
@@ -512,6 +364,8 @@ isqno;attacker;n;actors
 258;1;1;USSR
 259;0;1;USSR
 259;1;1;Japan
+26;0;1;Scottish Royalist
+26;1;1;English Parliament
 260;0;1;Japan
 260;1;1;USSR
 261;0;1;USSR
@@ -532,6 +386,8 @@ isqno;attacker;n;actors
 268;1;1;Germany
 269;0;1;France
 269;1;1;Germany
+27;0;1;Scottish Royalist
+27;1;1;English Parliament
 270;0;1;Germany
 270;1;1;France
 271;0;1;Germany
@@ -552,6 +408,8 @@ isqno;attacker;n;actors
 278;1;1;Russia
 279;0;1;Russia
 279;1;1;Germany
+28;0;1;Scottish Royalist
+28;1;1;English Parliament
 280;0;1;Russia
 280;1;1;Germany
 281;0;1;Russia
@@ -572,6 +430,8 @@ isqno;attacker;n;actors
 288;1;1;Serbia
 289;0;1;Germany
 289;1;1;France
+29;0;1;Conde Rebels
+29;1;1;France
 290;0;1;Germany
 290;1;1;Great Britain
 291;0;1;Great Britain
@@ -592,6 +452,11 @@ isqno;attacker;n;actors
 298;1;1;Italy
 299;0;1;Austria
 299;1;1;Italy
+3;0;1;Protestant Union
+3;1;1;Holy Roman Empire
+3;1;2;Spain
+30;0;1;Spain
+30;1;1;France
 300;0;1;Ottoman Empire
 300;1;1;Great Britain
 301;0;1;Ottoman Empire
@@ -612,6 +477,8 @@ isqno;attacker;n;actors
 308;1;1;Great Britain
 309;0;1;Ottoman Empire
 309;1;1;Russia
+31;0;1;Holy Roman Empire
+31;1;1;Ottoman Empire
 310;0;1;Germany
 310;1;1;Russia
 311;0;1;Austria
@@ -632,6 +499,8 @@ isqno;attacker;n;actors
 318;1;1;Great Britain
 319;0;1;Germany
 319;1;1;Great Britain
+32;0;1;Ottoman Empire
+32;1;1;Holy Roman Empire
 320;0;1;Germany
 320;1;1;Great Britain
 321;0;1;Great Britain
@@ -641,7 +510,8 @@ isqno;attacker;n;actors
 323;0;1;Austria
 323;1;1;Italy
 324;0;1;Italy
-324;1;1;Germany & Austria
+324;1;1;Germany
+324;1;2;Austria
 325;0;1;Ottoman Empire
 325;1;1;Great Britain
 326;0;1;Ottoman Empire
@@ -652,6 +522,8 @@ isqno;attacker;n;actors
 328;1;1;Great Britain
 329;0;1;Ottoman Empire
 329;1;1;Great Britain
+33;0;1;Ottoman Empire
+33;1;1;Poland
 330;0;1;Great Britain
 330;1;1;Germany
 331;0;1;Great Britain
@@ -672,6 +544,8 @@ isqno;attacker;n;actors
 338;1;1;USA
 339;0;1;Germany
 339;1;1;USA
+34;0;1;Holy Roman Empire
+34;1;1;France
 340;0;1;Germany
 340;1;1;USA
 341;0;1;Germany
@@ -692,6 +566,8 @@ isqno;attacker;n;actors
 348;1;1;USA
 349;0;1;Germany
 349;1;1;USA
+35;0;1;Dutch Republic
+35;1;1;France
 350;0;1;France
 350;1;1;Germany
 351;0;1;France
@@ -712,6 +588,8 @@ isqno;attacker;n;actors
 358;1;1;USA
 359;0;1;Germany
 359;1;1;USA
+36;0;1;Holy Roman Empire
+36;1;1;France
 360;0;1;Germany
 360;1;1;USA
 361;0;1;Germany
@@ -732,6 +610,8 @@ isqno;attacker;n;actors
 368;1;1;USA
 369;0;1;Germany
 369;1;1;USA
+37;0;1;Holy Roman Empire
+37;1;1;France
 370;0;1;Germany
 370;1;1;USA
 371;0;1;Germany
@@ -752,6 +632,8 @@ isqno;attacker;n;actors
 378;1;1;USA
 379;0;1;Germany
 379;1;1;USA
+38;0;1;Sweden
+38;1;1;Prussia
 380;0;1;Germany
 380;1;1;USA
 381;0;1;Germany
@@ -765,13 +647,16 @@ isqno;attacker;n;actors
 385;0;1;Ottoman Empire
 385;1;1;Great Britain
 386;0;1;Great Britain
-386;1;1;Germany & Italy
+386;1;1;Germany
+386;1;2;Italy
 387;0;1;Germany
 387;1;1;Great Britain
 388;0;1;Germany
 388;1;1;Great Britain
 389;0;1;Germany
 389;1;1;Great Britain
+39;0;1;England
+39;1;1;English Rebels
 390;0;1;Germany
 390;1;1;Great Britain
 391;0;1;USA
@@ -792,6 +677,10 @@ isqno;attacker;n;actors
 398;1;1;Germany
 399;0;1;USA
 399;1;1;Germany
+4;0;1;Holy Roman Empire
+4;1;1;Protestant Union
+40;0;1;England
+40;1;1;Jacobites
 400;0;1;Germany
 400;1;1;Great Britain
 401;0;1;Germany
@@ -812,6 +701,8 @@ isqno;attacker;n;actors
 408;1;1;USA
 409;0;1;Germany
 409;1;1;USA
+41;0;1;Dutch Republic
+41;1;1;France
 410;0;1;Germany
 410;1;1;Great Britain
 411;0;1;Germany
@@ -832,6 +723,8 @@ isqno;attacker;n;actors
 418;1;1;Germany
 419;0;1;Germany
 419;1;1;USA
+42;0;1;Dutch Republic
+42;1;1;France
 420;0;1;Germany
 420;1;1;Great Britain
 421;0;1;Germany
@@ -852,6 +745,8 @@ isqno;attacker;n;actors
 428;1;1;Germany
 429;0;1;Great Britain
 429;1;1;Germany
+43;0;1;Jacobites
+43;1;1;England
 430;0;1;Germany
 430;1;1;USA
 431;0;1;USA
@@ -872,6 +767,8 @@ isqno;attacker;n;actors
 438;1;1;USA
 439;0;1;Germany
 439;1;1;USA
+44;0;1;Jacobites
+44;1;1;England
 440;0;1;Germany
 440;1;1;USA
 441;0;1;Germany
@@ -892,6 +789,8 @@ isqno;attacker;n;actors
 448;1;1;USA
 449;0;1;Germany
 449;1;1;USA
+45;0;1;France
+45;1;1;England
 450;0;1;Germany
 450;1;1;Great Britain
 451;0;1;Germany
@@ -912,6 +811,8 @@ isqno;attacker;n;actors
 458;1;1;USA
 459;0;1;Germany
 459;1;1;Great Britain
+46;0;1;England
+46;1;1;France
 460;0;1;Germany
 460;1;1;USA
 461;0;1;USA
@@ -932,6 +833,8 @@ isqno;attacker;n;actors
 468;1;1;USA
 469;0;1;Germany
 469;1;1;USA
+47;0;1;Savoy
+47;1;1;France
 470;0;1;Germany
 470;1;1;USA
 471;0;1;Germany
@@ -952,6 +855,8 @@ isqno;attacker;n;actors
 478;1;1;USA
 479;0;1;Germany
 479;1;1;USA
+48;0;1;Ottoman Empire
+48;1;1;Holy Roman Empire
 480;0;1;Germany
 480;1;1;USA
 481;0;1;Germany
@@ -972,6 +877,8 @@ isqno;attacker;n;actors
 488;1;1;Germany
 489;0;1;USSR
 489;1;1;Germany
+49;0;1;Russia
+49;1;1;Sweden
 490;0;1;Germany
 490;1;1;USSR
 491;0;1;Germany
@@ -992,6 +899,12 @@ isqno;attacker;n;actors
 498;1;1;USSR
 499;0;1;Germany
 499;1;1;USSR
+5;0;1;Denmark
+5;1;1;Holy Roman Empire
+50;0;1;France
+50;0;2;Bavaria
+50;1;1;England
+50;1;2;Holy Roman Empire
 500;0;1;Germany
 500;1;1;USSR
 501;0;1;Germany
@@ -1012,6 +925,9 @@ isqno;attacker;n;actors
 508;1;1;USSR
 509;0;1;Germany
 509;1;1;USSR
+51;0;1;France
+51;0;2;Bavaria
+51;1;1;England
 510;0;1;Germany
 510;1;1;USSR
 511;0;1;Germany
@@ -1032,6 +948,9 @@ isqno;attacker;n;actors
 518;1;1;USA
 519;0;1;Japan
 519;1;1;USA
+52;0;1;France
+52;1;1;England
+52;1;2;Holy Roman Empire
 520;0;1;Japan
 520;1;1;USA
 521;0;1;Japan
@@ -1052,6 +971,9 @@ isqno;attacker;n;actors
 528;1;1;Japan
 529;0;1;Japan
 529;1;1;USA
+53;0;1;France
+53;1;1;England
+53;1;2;Holy Roman Empire
 530;0;1;Japan
 530;1;1;USA
 531;0;1;USA
@@ -1072,6 +994,8 @@ isqno;attacker;n;actors
 538;1;1;USA
 539;0;1;Japan
 539;1;1;USA
+54;0;1;Ottoman Empire
+54;1;1;Habsburg Empire
 540;0;1;Japan
 540;1;1;USA
 541;0;1;Japan
@@ -1092,6 +1016,8 @@ isqno;attacker;n;actors
 548;1;1;USA
 549;0;1;Jordan
 549;1;1;Israel
+55;0;1;Prussia
+55;1;1;Habsburg Empire
 550;0;1;Jordan
 550;1;1;Israel
 551;0;1;Jordan
@@ -1112,6 +1038,8 @@ isqno;attacker;n;actors
 558;1;1;Israel
 559;0;1;Palestine
 559;1;1;Israel
+56;0;1;Prussia
+56;1;1;Habsburg Empire
 560;0;1;Egypt
 560;1;1;Israel
 561;0;1;Israel
@@ -1132,6 +1060,8 @@ isqno;attacker;n;actors
 568;1;1;Israel
 569;0;1;Israel
 569;1;1;Egypt
+57;0;1;France
+57;1;1;Great Britain
 570;0;1;Israel
 570;1;1;Egypt
 571;0;1;Israel
@@ -1152,6 +1082,8 @@ isqno;attacker;n;actors
 578;1;1;Israel
 579;0;1;Egypt
 579;1;1;Israel
+58;0;1;France
+58;1;1;Great Britain
 580;0;1;Egypt
 580;1;1;Israel
 581;0;1;Egypt
@@ -1172,6 +1104,8 @@ isqno;attacker;n;actors
 588;1;1;Syria
 589;0;1;Israel
 589;1;1;Syria
+59;0;1;Habsburg Empire
+59;1;1;Prussia
 590;0;1;Syria
 590;1;1;Israel
 591;0;1;Syria
@@ -1192,6 +1126,10 @@ isqno;attacker;n;actors
 598;1;1;Jordan
 599;0;1;Israel
 599;1;1;Syria
+6;0;1;Sweden
+6;1;1;Holy Roman Empire
+60;0;1;Habsburg Empire
+60;1;1;Prussia
 600;0;1;Syria
 600;1;1;Israel
 601;0;1;Syria
@@ -1212,6 +1150,8 @@ isqno;attacker;n;actors
 608;1;1;USA
 609;0;1;USA
 609;1;1;Germany
+61;0;1;Saxony
+61;1;1;Prussia
 610;0;1;USA
 610;1;1;Germany
 611;0;1;USA
@@ -1232,6 +1172,8 @@ isqno;attacker;n;actors
 618;1;1;Germany
 619;0;1;USA
 619;1;1;Germany
+62;0;1;Great Britain
+62;1;1;Jacobites
 620;0;1;USA
 620;1;1;Germany
 621;0;1;USA
@@ -1252,6 +1194,8 @@ isqno;attacker;n;actors
 628;1;1;USA
 629;0;1;North Korea
 629;1;1;USA
+63;0;1;Great Britain
+63;1;1;Jacobites
 630;0;1;North Korea
 630;1;1;USA
 631;0;1;North Korea
@@ -1272,6 +1216,8 @@ isqno;attacker;n;actors
 638;1;1;Syria
 639;0;1;Israel
 639;1;1;Syria
+64;0;1;Austria
+64;1;1;Prussia
 640;0;1;Syria
 640;1;1;Israel
 641;0;1;Syria
@@ -1292,6 +1238,8 @@ isqno;attacker;n;actors
 648;1;1;Israel
 649;0;1;Egypt
 649;1;1;Israel
+65;0;1;Austria
+65;1;1;Prussia
 650;0;1;Egypt
 650;1;1;Israel
 651;0;1;Egypt
@@ -1312,5 +1260,80 @@ isqno;attacker;n;actors
 658;1;1;Germany
 659;0;1;Germany
 659;1;1;Great Britain
+66;0;1;Great Britain
+66;1;1;Bengal
 660;0;1;Germany
 660;1;1;France
+67;0;1;Austria
+67;1;1;Prussia
+68;0;1;Great Britain
+68;1;1;France
+69;0;1;Prussia
+69;1;1;France
+69;1;2;Austria
+7;0;1;Holy Roman Empire
+7;1;1;Sweden
+70;0;1;Austria
+70;1;1;Prussia
+71;0;1;France
+71;1;1;Hanover
+72;0;1;Russia
+72;1;1;Prussia
+73;0;1;Prussia
+73;1;1;Austria
+74;0;1;France
+74;1;1;Hanover
+75;0;1;France
+75;1;1;Hanover
+76;0;1;Russia
+76;1;1;Prussia
+77;0;1;Great Britain
+77;1;1;France
+78;0;1;Prussia
+78;1;1;Austria
+79;0;1;France
+79;1;1;Hanover
+8;0;1;Holy Roman Empire
+8;1;1;Sweden
+80;0;1;Prussia
+80;1;1;Austria
+81;0;1;Austria
+81;1;1;Prussia
+82;0;1;USA
+82;1;1;Great Britain
+83;0;1;Great Britain
+83;1;1;USA
+84;0;1;USA
+84;1;1;Great Britain
+85;0;1;Great Britain
+85;1;1;USA
+86;0;1;Great Britain
+86;1;1;USA
+87;0;1;USA
+87;1;1;Great Britain
+88;0;1;Great Britain
+88;1;1;USA
+89;0;1;USA
+89;1;1;Great Britain
+9;0;1;Holy Roman Empire
+9;1;1;Sweden
+90;0;1;USA
+90;1;1;Great Britain
+91;0;1;USA
+91;1;1;Great Britain
+92;0;1;USA
+92;1;1;Great Britain
+93;0;1;USA
+93;1;1;Great Britain
+94;0;1;USA
+94;1;1;Great Britain
+95;0;1;Great Britain
+95;1;1;USA
+96;0;1;France
+96;1;1;Prussia
+97;0;1;Austria
+97;1;1;France
+98;0;1;Austria
+98;1;1;France
+99;0;1;Great Britain
+99;1;1;France

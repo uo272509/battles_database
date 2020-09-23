@@ -1,9 +1,10 @@
-"value";"description"
-"AA";"Annihilated"
-"PS";"Pursued"
-"PP";"Penetration"
-"WD";"Withdrew"
-"RR";"Repulse"
-"BB";"Breakthrough"
-"SS";"Stalemate"
-"WL";"Withdrew with heavy losses"
+sep=;
+value;description
+AA;Annihilated
+PS;Pursued
+PP;Penetration
+WD;Withdrew
+RR;Repulse
+BB;Breakthrough
+SS;Stalemate
+WL;Withdrew with heavy lossessep=;

@@ -1,4 +1,5 @@
-"value";"description"
-"E";"Tropical (i.e.; ""Equatorial"")"
-"D";"Desert"
-"T";"Temperate"
+sep=;
+value;description
+E;Tropical (i.e.; Equatorial)
+D;Desert
+T;Temperate

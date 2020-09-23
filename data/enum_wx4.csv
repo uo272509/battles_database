@@ -1,5 +1,6 @@
-"value";"description"
-"S";"Summer"
-"$";"Spring"
-"W";"Winter"
-"F";"Fall"
+sep=;
+value;description
+S;Summer
+$;Spring
+W;Winter
+F;Fall

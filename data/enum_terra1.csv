@@ -1,5 +1,6 @@
-"value";"description"
-"0";"Other or not available"
-"R";"Rolling"
-"G";"Rugged"
-"F";"Flat"
+sep=;
+value;description
+0;Other or not available
+R;Rolling
+G;Rugged
+F;Flat
